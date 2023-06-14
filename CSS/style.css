@@ -1,0 +1,153 @@
+#portada {
+    background-image: url(/IMG/Wall.jpg);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+    background-size: 1900px 1150px;
+    border: black 2px solid;
+    width: 100%;
+    
+    }
+
+.cajaBoton {
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.blanco {
+    background-color: #ffffff;
+    font-size: 12px;
+    width: 20%;
+    height: 1000px;
+
+}
+/* Este algoritmo lo podemos utilizar para agregar Font nuevas */
+
+@font-face {
+    font-family: Noyh;
+    src: url(/FONT/Noyh.ttf);
+
+}
+@font-face {
+    font-family: letra2;
+    src: url(/FONT/letra2.ttf);
+}
+
+.ingre {
+    font-family: Noyh; /* Luego la llamamos aqui*/
+    font-size: 30px;
+    margin: 0% 0% 0% 30%;
+    width: 175px;
+    text-align: center;
+}
+
+.riot {
+    margin-left: 100px;
+    margin-top: 80px;
+    width: 50%;
+}
+
+.usuario {
+    color: rgba(77, 75, 75, 0.596);
+    background-color: rgba(128, 128, 128, 0.288);
+    font-family: letra2; /* Luego la llamamos aqui*/
+    font-size: 15px;
+    width: 280px;
+    margin: 5% 0% 0% 15%;
+    border-radius: 3%;
+    padding: 5% 0% 5% 3%;
+    left: 100%;
+    border: 0px solid;
+}
+
+.box {
+    width: 95px;
+    position: absolute;
+    top: 144px;
+    left: 18px;
+}
+
+.container {
+    background-color: blueviolet;
+    font-size: 20px;
+    display: flex;
+}
+
+.imagen {
+    height: 50px;
+    width: 100px;
+}
+
+#portada {
+    background-image: url(/IMG/Wall.jpg);
+    background-repeat: no-repeat;
+    background-position: 400px 0px;
+    background-size: 1900px 1150px;
+    border: black 2px solid;
+    width: 100%;
+    
+    }
+
+.cajaBoton {
+    background-color: blue;
+    border-radius: 15px;
+}
+
+.blanco {
+    background-color: #ffffff;
+    font-size: 12px;
+    width: 20%;
+    height: 1000px;
+
+}
+/* Este algoritmo lo podemos utilizar para agregar Font nuevas */
+
+@font-face {
+    font-family: Noyh;
+    src: url(/FONT/Noyh.ttf);
+
+}
+@font-face {
+    font-family: letra2;
+    src: url(/FONT/letra2.ttf);
+}
+
+.ingre {
+    font-family: Noyh; /* Luego la llamamos aqui*/
+    font-size: 30px;
+    margin: 0% 0% 0% 30%;
+    width: 175px;
+    text-align: center;
+}
+
+.riot {
+    margin-left: 100px;
+    margin-top: 80px;
+    width: 50%;
+}
+
+.usuario {
+    color: rgba(77, 75, 75, 0.596);
+    background-color: rgba(128, 128, 128, 0.288);
+    font-family: letra2; /* Luego la llamamos aqui*/
+    font-size: 15px;
+    width: 280px;
+    margin: 5% 0% 0% 15%;
+    border-radius: 3%;
+    padding: 5% 0% 5% 3%;
+    left: 100%;
+    border: 0px solid;
+}
+
+.box {
+    width: 95px;
+    position: absolute;
+    top: 144px;
+    left: 18px;
+}
+.video {
+    margin: 10px 0px 0px 500px;
+}
+
+footer {
+    background-color: aqua;
+}
